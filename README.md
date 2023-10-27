@@ -6,11 +6,11 @@ To run this project an Oculus VR device is needed. If intrested in actually runn
 
 ## An Example:
 
-When selecting your path, this is what the game looks like: 
+We pre-defined some points, and in the image below we picked the path going from point A to point C. Here is what the game looks like, when selecting a path: 
 
 ![image](https://github.com/mrestuccia1/VR_Travel/assets/102557721/ce74d3bd-9171-488f-be3c-203ebe875cb3)
 
-We pre-defined some points, and here we picked the path going from point A to point C.
+
 
 To see this game in action, follow these youtube links:
 - My partner being led from a starting point to an endpoint, while hitting all our checkpoints (denoted on the ground with tape) and being blindfolded: https://www.youtube.com/watch?v=cvG1ofZEabA
